@@ -42,6 +42,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
   agent-id="dc3b5354-d211-49c9-9e0c-a8833f2d0c5e"
   language-code="es"
 ></df-messenger>
+
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
@@ -101,4 +102,3 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
         }
     }
 </script>
-
